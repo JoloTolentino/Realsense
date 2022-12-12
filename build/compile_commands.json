@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Desktop/Realsense/Realsense-/build",
+  "command": "D:/MinGW/bin/g++.exe  @CMakeFiles/RealSense.dir/includes_CXX.rsp -g -o CMakeFiles/RealSense.dir/main.cpp.obj -c D:/Desktop/Realsense/Realsense-/main.cpp",
+  "file": "D:/Desktop/Realsense/Realsense-/main.cpp"
+}
+]
