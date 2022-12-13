@@ -1,6 +1,6 @@
-^D:\DESKTOP\ALDRIN\CMAKELISTS.TXT
+^D:\DESKTOP\REALSENSE\REALSENSE-\CMAKELISTS.TXT
 setlocal
-D:\CMAKE\cmake-3.20.0-rc1-windows-x86_64\bin\cmake.exe -SD:/Desktop/aldrin -BD:/Desktop/aldrin/build --check-stamp-file D:/Desktop/aldrin/build/CMakeFiles/generate.stamp
+D:\CMAKE\cmake-3.20.0-rc1-windows-x86_64\bin\cmake.exe -SD:/Desktop/Realsense/Realsense- -BD:/Desktop/Realsense/Realsense-/build --check-stamp-file D:/Desktop/Realsense/Realsense-/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

@@ -9,7 +9,7 @@ The output was:
 Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 12/11/2022 7:21:45 PM.
+Build started 12/13/2022 2:47:03 PM.
 Project "D:\Desktop\Realsense\Realsense-\build\CMakeFiles\3.20.0-rc1\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
 PrepareForBuild:
   Creating directory "Debug\".
@@ -35,7 +35,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:01.83
+Time Elapsed 00:00:01.09
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -54,7 +54,7 @@ The output was:
 Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
-Build started 12/11/2022 7:21:48 PM.
+Build started 12/13/2022 2:47:05 PM.
 Project "D:\Desktop\Realsense\Realsense-\build\CMakeFiles\3.20.0-rc1\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
 PrepareForBuild:
   Creating directory "Debug\".
@@ -80,7 +80,7 @@ Build succeeded.
     0 Warning(s)
     0 Error(s)
 
-Time Elapsed 00:00:01.27
+Time Elapsed 00:00:00.86
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -92,28 +92,28 @@ The CXX compiler identification is MSVC, found in "D:/Desktop/Realsense/Realsens
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: D:/Desktop/Realsense/Realsense-/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_c2574.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_edba1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30146 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   CMakeCCompilerABI.c
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c2574.dir\Debug\\" /Fd"cmTC_c2574.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\CMAKE\cmake-3.20.0-rc1-windows-x86_64\share\cmake-3.20\Modules\CMakeCCompilerABI.c"
-  cmTC_c2574.vcxproj -> D:\Desktop\Realsense\Realsense-\build\CMakeFiles\CMakeTmp\Debug\cmTC_c2574.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_edba1.dir\Debug\\" /Fd"cmTC_edba1.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "D:\CMAKE\cmake-3.20.0-rc1-windows-x86_64\share\cmake-3.20\Modules\CMakeCCompilerABI.c"
+  cmTC_edba1.vcxproj -> D:\Desktop\Realsense\Realsense-\build\CMakeFiles\CMakeTmp\Debug\cmTC_edba1.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: D:/Desktop/Realsense/Realsense-/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_739ea.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/MSBuild/Current/Bin/MSBuild.exe cmTC_91b23.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
   Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30146 for x64
   Copyright (C) Microsoft Corporation.  All rights reserved.
   CMakeCXXCompilerABI.cpp
-  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_739ea.dir\Debug\\" /Fd"cmTC_739ea.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\CMAKE\cmake-3.20.0-rc1-windows-x86_64\share\cmake-3.20\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_739ea.vcxproj -> D:\Desktop\Realsense\Realsense-\build\CMakeFiles\CMakeTmp\Debug\cmTC_739ea.exe
+  cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_91b23.dir\Debug\\" /Fd"cmTC_91b23.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "D:\CMAKE\cmake-3.20.0-rc1-windows-x86_64\share\cmake-3.20\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_91b23.vcxproj -> D:\Desktop\Realsense\Realsense-\build\CMakeFiles\CMakeTmp\Debug\cmTC_91b23.exe
 
 
 
